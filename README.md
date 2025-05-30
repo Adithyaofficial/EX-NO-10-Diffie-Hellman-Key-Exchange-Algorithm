@@ -67,5 +67,3 @@ int main() {
 
 ## Result:
   The program is executed successfully
-
-](https://github.com/Adithyaofficial/EX-NO-9-RSA-Algorithm/blob/main/README.md)
